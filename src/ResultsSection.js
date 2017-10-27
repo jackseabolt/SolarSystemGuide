@@ -5,10 +5,6 @@ import './ResultsSection.css';
 
 export class ResultsSection extends React.Component {
 
-    componentDidMount() {
-        this.props.dispatch(getPlanets()); 
-    }
-
     render() {
 
         const planetList = this.props.planets.map(planet => (
