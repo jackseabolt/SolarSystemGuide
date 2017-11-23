@@ -1,6 +1,6 @@
 .planet-article {
-    background-color: rgba(244, 244, 244, 0.9); 
-    border: 1px solid #919191; 
+    background-color: rgba(244, 244, 244, 0.8);  
+    border: 1px solid #999898; 
     width: calc(80% -30px); 
     margin: 20px auto; 
     padding: 30px; 
