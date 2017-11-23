@@ -1,5 +1,5 @@
 .planet-article {
-    background-color: #F0F0F0; 
+    background-color: rgba(244, 244, 244, 0.9); 
     border: 1px solid #919191; 
     width: calc(80% -30px); 
     margin: 20px auto; 
