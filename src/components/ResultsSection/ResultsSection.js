@@ -1,7 +1,7 @@
 import React from 'react'; 
 import { connect } from 'react-redux'; 
-import { getPlanets } from './actions'; 
-import Planet from './Planet'; 
+import { getPlanets } from '../../actions'; 
+import Planet from '../Planet/Planet'; 
 
 
 export class ResultsSection extends React.Component {
