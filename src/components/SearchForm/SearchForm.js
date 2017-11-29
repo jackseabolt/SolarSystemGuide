@@ -1,6 +1,6 @@
 import React from 'react'; 
 import { connect } from 'react-redux'; 
-import { findPlanet } from './actions'; 
+import { findPlanet } from '../../actions'; 
 import './SearchForm.css'; 
 
 export class SearchForm extends React.Component {
